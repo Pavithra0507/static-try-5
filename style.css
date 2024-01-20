@@ -36,10 +36,11 @@ body {
   .menu-item {
     flex: 1 0 300px;
     background-color: rgba(0, 0, 0, 0.938);
+    color:#ffffff;
     padding: 15px;
     margin: 10px;
     border-radius: 5px;
-    box-shadow: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.938)
     transition: transform 0.5s ease-in-out;
     display: flex;
     flex-direction: column;
